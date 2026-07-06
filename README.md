@@ -217,7 +217,7 @@ Credit-Card-Approval-Prediction/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/amreen3017/Credit-Card-Approval-Prediction-ML.git
+git clone https://github.com/HymavathiSaidu/Credit-Card-Approval-Prediction-ML.git
 ```
 
 ### Navigate to Project
@@ -299,11 +299,11 @@ http://127.0.0.1:5000
 ![Confusion Matrix](screenshots/confusion_matrix.png)
 ## 👨‍💻 Author
 
-**Amreen**
+**Hymavathi**
 
 Bachelor of Technology (Information Technology)
 
-GitHub: https://github.com/amreen3017
+GitHub: https://github.com/HymavathiSaidu
 
 LinkedIn: *(Add your LinkedIn profile link here)*
 
